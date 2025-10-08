@@ -32,7 +32,21 @@ format:
   
   
   <!--1. PUBLISHED-->
-<p style="font-weight: 500;"><span style="font-size: 19px;">Journal Publications</span></p>
+<p style="font-weight: 500;"><span style="font-size: 19px;">Journal publications</span></p>
+
+<!--# Heat and Racial segregation-->
+<span style="font-weight: normal;color: #2576c6;">
+    <a href="https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sciencedirect.com/science/article/pii/S0095069625000944&ved=2ahUKEwjs-pHP45SQAxWaBdsEHUE_GZoQFnoECB0QAw&usg=AOvVaw3zPztimNtcwYGABrizj6bh" target="_blank">Heat and Experienced Racial Segregation</a>
+</span><br>
+<span style="font-weight: 450;">Journal of Environmental Economics and Management</span>, 2025<br>
+with Till Baldenius and Nicolas Koch<br>
+
+<!--# NPJ paper -->
+<span style="font-weight: normal;color: #2576c6;">
+    <a href="https://www.nature.com/articles/s44333-024-00020-6" target="_blank">The Impact of the Bangkok Metro Expansion via Big Taxi GPS Probe Data</a>
+</span><br>
+<span style="font-weight: 450;">npj Sustainable Mobility and Transport</span>, 2025<br>
+with Eva Ayaragarnchanakul, Florian Nachtigall, Felix Wagner, Jia-wei Hu, and Felix Creutzig<br>
 
    <!--LEZ paper-->
 <span style="font-weight: normal;color: #2576c6;"><a href="https://www.aeaweb.org/articles?id=10.1257/pol.20210729" target="_blank">Killing Prescriptions Softly: Low Emission Zones and Child Health from Birth to School</a></span><br>
@@ -54,25 +68,10 @@ with Felix Holub, Nicolas Koch, Nico Pestel, Nolan Ritter, and Alexander Rohlf<b
 <a href="https://www1.wdr.de/nachrichten/rheinland/weniger-asthma-bei-kindern-in-umweltzonen-100.html" target="_blank">WDR</a>,
 <a href="https://www1.wdr.de/fernsehen/aktuelle-stunde/alle-videos/aktuelle-stunde-clip-aktuelle-stunde--23-07-2024-100.html" target="_blank">WDR Aktuelle Stunde</a>,
 <a href="https://www.zdf.de/nachrichten/briefing/good-news-verkehr-umwelt-zdfheute-update-100.html" target="_blank">ZDFheute</a></span><br>
-<!--# NPJ paper -->
 <br>
-<span style="font-weight: normal;color: #2576c6;">
-    <a href="https://www.nature.com/articles/s44333-024-00020-6" target="_blank">The Impact of the Bangkok Metro Expansion via Big Taxi GPS Probe Data</a>
-</span><br>
-<span style="font-weight: 450;">npj Sustainable Mobility and Transport</span>, 2025<br>
-with Eva Ayaragarnchanakul, Florian Nachtigall, Felix Wagner, Jia-wei Hu, and Felix Creutzig<br>
-
-<br>
-
-
 
   <!--2. WORKING PAPERS-->
-<p style="font-weight: 500;"><span style="font-size: 19px;">Working Papers</span></p>
-<!--# Heat and Racial segregation-->
-<span style="font-weight: normal;color: #2576c6;">Heat and Experienced Racial Segregation</span><br>
-Revise & Resubmit at <span style="font-weight: 450;">Journal of Environmental Economics and Management</span><br>
-with Till Baldenius and Nicolas Koch <br>
- <br>
+<p style="font-weight: 500;"><span style="font-size: 19px;">Working papers</span></p>
  <!--# AU paper-->
 <span style="font-weight: normal;color: #2576c6;">The Immediate and Lasting Effects of Heat Waves On Workers</span><br>
 EAERE 2025 Conference Paper, with Nicolas Koch and Nico Pestel<br>
