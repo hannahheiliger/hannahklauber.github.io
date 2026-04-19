@@ -17,8 +17,6 @@ format:
 
 ::: header-space
 :::
-
-
 <header class="site-title">
   <h1 class="title">
     <span class="main-name">Hannah Heiliger</span>
