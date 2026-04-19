@@ -41,7 +41,7 @@
   top: 60%;                 /* move to vertical middle */
   transform: translateY(-50%);  /* center it precisely */
   margin-left: 0.5em;
-  font-size: 0.6em;
+  font-size: 0.6em;!important;
   font-style: italic;
   white-space: nowrap;
 }
