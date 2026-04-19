@@ -17,7 +17,10 @@ format:
 
 
 <header class="site-title">
-  <h1>Hannah Klauber</h1>
+  <h1 class="title">
+    <span class="main-name">Hannah Heiliger</span>
+    <span class="maiden-name">(née Klauber)</span>
+  </h1>
 </header>
 
 <nav class="navbar">
@@ -53,7 +56,7 @@ format:
 
 <p><strong>Email:</strong></p>
 
-<a href="mailto:hannah.klauber@pik-potsdam.de">hannah.klauber\@pik-potsdam.de</a>
+<a href="mailto:hannah.heiliger@pik-potsdam.de">hannah.heiliger\@pik-potsdam.de</a>
 
 </p>
 
@@ -63,7 +66,7 @@ EUREF Campus 19, Torgauer Str. 12-15, 10829 Berlin, Germany
 
 </p>
 <hr> 
-<a href="https://github.com/hannahklauber" target="_blank">
+<a href="https://github.com/hannahheiliger" target="_blank">
   <i class="fa-brands fa-github"></i> 
 </a> <a href="https://scholar.google.com/citations?user=0_-lQNIAAAAJ&hl=en&oi=sra" target="_blank">
 <i class="ai ai-google-scholar"></i>
@@ -74,7 +77,7 @@ EUREF Campus 19, Torgauer Str. 12-15, 10829 Berlin, Germany
 
 
 ::: footer-item
-<p class="copyright">© 2025 Hannah Klauber. All rights reserved.</p>
+<p class="copyright">© 2025 Hannah Heiliger. All rights reserved.</p>
 :::
 
 </footer>

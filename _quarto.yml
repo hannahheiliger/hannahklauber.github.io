@@ -3,8 +3,8 @@ project:
   output-dir: docs
 
 website:
-  title: "Hannah Klauber"
-  site-url: "https://hannahklauber.github.io"
+  title: "Hannah Heiliger"
+  site-url: "https://hannahheiliger.github.io"
   navbar:
     left:
       - text: "About"
@@ -22,12 +22,12 @@ website:
             <li><a href="mailto:your.email@example.com"><i class="fas fa-envelope"></i> Email</a></li>
             <hr>
             <li><a href="https://www.linkedin.com/in/your-profile" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a></li>
-            <li><a href="https://github.com/hannahklauber" target="_blank"><i class="fab fa-github"></i> GitHub</a></li>
+            <li><a href="https://github.com/hannahheiliger" target="_blank"><i class="fab fa-github"></i> GitHub</a></li>
             <li><a href="https://scholar.google.com/citations?user=your_google_scholar_id" target="_blank"><i class="ai ai-google-scholar"></i> Google Scholar</a></li>
           </ul>
         </div>
         <div class="footer-item">
-          <p>© 2025 Hannah Klauber. All rights reserved.</p>
+          <p>© 2025 Hannah Heiliger. All rights reserved.</p>
         </div>
       </div>
     </footer>
